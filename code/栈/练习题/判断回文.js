@@ -18,5 +18,5 @@ function isPalindrome(word) {
         reversedWord += stack.pop();
     }
 
-    return word === reversedWord
+    return word === reversedWord;
 }
