@@ -33,3 +33,5 @@ Stack.prototype.toString = function () {
 
 // 实例化
 const stack = new Stack();
+
+module.exports = Stack;
